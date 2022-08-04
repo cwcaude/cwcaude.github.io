@@ -17,9 +17,9 @@ Responsibilities:
 
 1. Reverse Engineer and add tuning support for new Vehicles
 
-- Read/Write assembly code
-- Understand and utilize 3rd party documentation
-- Develop Scripts and IDA plugins to assist/improve workflow
+    - Read/Write Assembly code
+    - Understand and utilize 3rd party documentation
+    - Develop Scripts and IDA plugins to assist/improve workflow
 
 2. Maintain scripts/tools used during development
 3. Troubleshoot and fix software bugs reported to the team
@@ -30,14 +30,14 @@ Skills:
 
 - Bash
 - C++
-- Python (Programming Language)
+- Python
 - Embedded Reverse Engineering
 - IDA Pro
 - Binary Ninja
 
 ## Professional Interests
 
-Reverse Engineering, Malware Analysis, Software Vulnerability Research, Embedded Systems, Operating Systems,
+Reverse Engineering, Malware Analysis, Software Vulnerability Research, Embedded Systems, Operating Systems
 
 ## Personal Hobbies
 
