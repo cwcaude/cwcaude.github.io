@@ -2,7 +2,7 @@
 layout: post
 title:  "Reverse Engineering Vehicle Update Files"
 date:   2020-11-25 16:00:00 -0400
-categories: Reverse Engineering / Analysis
+categories: Reverse_Engineering
 ---
 # Backstory / Introduction
 I own a relatively new Dodge vehicle, one new enough to have a touch screen infotainment system, and require system updates. Well recently my vehicle was prompted with an update, and I became curious as to what this update file actually contained. So I navigated to Dodge's update website, downloaded the respective update file, and tried to see what I could learn about it. These are some of the things I learned and was able to find out about this file.
