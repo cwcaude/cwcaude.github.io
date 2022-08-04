@@ -2,7 +2,7 @@
 layout: post
 title:  "iOS Tweak Development : 1"
 date:   2020-7-02 16:00:00 -0400
-categories: Project Tutorial
+categories: iOS_Tweak_Development
 ---
 # Note
 This series of posts is not made as strictly a *tutorial*. While I will be explaining how things work and giving instruction on iOS tweak development, the purpose of this posting is to **explain** and **document** my journey/path of learning to develop iOS tweaks. If you desire for strictly a tutorial in iOS Tweak Development check out these links here :
