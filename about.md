@@ -1,9 +1,8 @@
 ---
+layout: page
 title: About
-icon: fas fa-info-circle
-order: 4
+permalink: /about/
 ---
-
 # Clay Caudell
 
 ## Education
@@ -43,4 +42,3 @@ Reverse Engineering, Malware Analysis, Software Vulnerability Research, Embedded
 ## Personal Hobbies
 
 FPV Quadcopters, Gaming, iOS Jailbreaking, Graphic Design
-
