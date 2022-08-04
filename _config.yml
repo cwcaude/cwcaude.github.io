@@ -23,7 +23,7 @@ timezone:
 
 title: Clay Caudell                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Reversing Enthusiast   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Welcome, I sometimes write here about my current curiosities. Enjoy! 
@@ -83,7 +83,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
