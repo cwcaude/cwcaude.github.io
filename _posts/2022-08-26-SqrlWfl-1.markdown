@@ -41,9 +41,9 @@ After downloading and saving the file, another encrypted block is grabbed and de
 ### Code Offset: `0x00585188`
 Next a *system()* call is crafted to execute this newly registered DLL. The system call takes the arguments found below and appends the generated filename to the end. \ 
 ``` start /i /min /b *generatedFilename* ```  
-*/i* passes the cmd.exe startup environment to the new command prompt window \
-*/min* minimizes the command prompt window \
-*/b* starts a new application without opening a new command prompt window
+*/i*: passes the cmd.exe startup environment to the new command prompt window \
+*/min*: minimizes the command prompt window \
+*/b*: starts a new application without opening a new command prompt window
 
 # Function Analysis
 
