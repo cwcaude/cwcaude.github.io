@@ -24,14 +24,14 @@ The malware then loads the encrypted IP blocklist and key from memory and runs i
 ## C2 List & File Download
 ### Function Offset: `0x00581db0`
 After handling the IP Blocklist, a function is called that handles decrypting the [C2 Host List](#c2-hostname-list) and creates an addrinfo list of each c2 hostname. The addrinfo list is then looped through while attempting for a successful socket to be opened. This loop is annotated in the screenshot below. 
-![C2 AddrInfo Loop](../assets/SW_AddrInfoLoop.png)
+![C2 AddrInfo Loop](/assets/SW_AddrInfoLoop.png)
 After successfully opening a connection to a host from the list a file is downloaded and saved to a buffer to be written to a file later. 
 
 ## Filename Generation & File Write
 ### Function Offset: `0x005813a0`
 A filename is generated via a [simple function](#random-string-function-decompilation) to randomly generate a string and '.txt' is appended to it.
 
-![Append '.txt'](../assets/SW_appendtxt.png)
+![Append '.txt'](/assets/SW_appendtxt.png)
 
 ## Register DLL
 ### Code Offset: `0x00584f9f`
@@ -49,11 +49,11 @@ Next a *system()* call is crafted to execute this newly registered DLL.
 ## XOR Decrypt 
 ### Function Offset: `0x005819b0`
 This malware utilizes a fairly simple XOR Decryption method using a looping key. In this screenshot below you can see my annotated Binary Ninja output where I outline the basic functionality for the decryption.  
-![XOR Decrypt Function](../assets/SW_XOR_decrypt_func.png)
+![XOR Decrypt Function](/assets/SW_XOR_decrypt_func.png)
 
 ## Random String Function Decompilation
 ### Function Offset: `0x005813a0`
-![Random String Function](../assets/SW_randomString.png) 
+![Random String Function](/assets/SW_randomString.png) 
 
 
 # Thanks for reading
