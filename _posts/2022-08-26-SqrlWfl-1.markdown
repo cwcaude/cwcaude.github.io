@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SquirrelWaffle Static Analysis"
-date:   2022-08-26 17:00:00 -0400
+date:   2022-08-26 17:30:00 -0400
 categories: Malware_Analysis
 ---
 # Preface
