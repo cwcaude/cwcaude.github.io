@@ -35,14 +35,15 @@ A filename is generated via a [simple function](#random-string-function-decompil
 
 ## Register DLL
 ### Code Offset: `0x00584f9f`
-After downloading and saving the file, another encrypted block is grabbed and decrypted. This time it's a WinExec() argument to register the DLL via *regsvr32.exe*.
-### DLL Register Command
-``` regsvr32.exe -s *generatedFilename*``` \
+After downloading and saving the file, another encrypted block is grabbed and decrypted. This time it's a WinExec() argument to register the DLL via *regsvr32.exe* and prevents displaying messages with -s.
+``` regsvr32.exe -s *generatedFilename*``` 
 ## Start DLL
 ### Code Offset: `0x00585188`
-Next a *system()* call is crafted to execute this newly registered DLL.
-### System Call Command
-``` start /i /min /b *generatedFilename* ```   
+Next a *system()* call is crafted to execute this newly registered DLL. The system call takes the arguments found below and appends the generated filename to the end. \ 
+``` start /i /min /b *generatedFilename* ```  
+*/i* passes the cmd.exe startup environment to the new command prompt window \
+*/min* minimizes the command prompt window \
+*/b* starts a new application without opening a new command prompt window
 
 # Function Analysis
 
