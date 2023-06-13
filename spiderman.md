@@ -4,6 +4,7 @@ permalink: /spiderman/
 ---
 # Spider-Man Vol. 1 Collection
 Hidden page to track the comics I've collected from the 1990s comic series Spider-Man Vol. 1
+
 | Comic | Table |
 |-------|--------|
 | Spider-Man #-1 : "Proto-Goblin" | Spider-Man #1/2 : "Glory Days" | 
