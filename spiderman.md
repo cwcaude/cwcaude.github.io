@@ -8,19 +8,19 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | | |
 |---|---|
 | Spider-Man #-1 : "Proto-Goblin" | Spider-Man #1/2 : "Glory Days" | 
-| Status: Shipped | Status: Shipped | 
+| Status: *Shipped* | Status: *Shipped* | 
 | ![Spider-Man #-1 : "Proto-Goblin" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_-1.webp) | ![Spider-Man #1/2 : "Glory Days" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_half.webp) |
 |   |   |
 | Spider-Man #1 : "Torment, Part 1" | Spider-Man #2 : "Torment, Part 2" |
-| Status: Collected | Status: Collected |
+| Status: **Collected** | Status: **Collected** |
 | ![Spider-Man #1 : "Torment, Part 1" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_1.webp) | ![Spider-Man #2 : "Torment, Part 2" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_2.webp) |
 |   |   |
 | Spider-Man #3 : "Torment, Part 3" | Spider-Man #4 : "Torment, Part 4" |
-| Status: Collected | Status: Collected | 
+| Status: **Collected** | Status: **Collected** | 
 | ![Spider-Man #3 : "Torment, Part 3" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_3.webp) | ![Spider-Man #4 : "Torment, Part 4" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_4.webp) | 
 |   |   |
 | Spider-Man #5 : "Torment, Part 5" | Spider-Man #6 : "Masques, Part 1" |
-| Status: Collected | Status: Uncollected | 
+| Status: **Collected** | Status: Uncollected | 
 | ![Spider-Man #5 : "Torment, Part 5" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_5.webp) | ![Spider-Man #6 : "Masques, Part 1 Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_6.webp) | 
 |   |   |
 | Spider-Man #7 : "Masques, Part 2" | Spider-Man #8 : "Perceptions, Part 1" |
@@ -36,7 +36,7 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | ![Spider-Man #11 Perceptions, Part 4 Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_11.webp) | ![Spider-Man #12 Perceptions, Part 5 Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_12.webp) |
 |   |   |
 | Spider-Man #13 : "Sub-City, Part 1" | Spider-Man #14 : "Sub-City, Part 2" |
-| Status: Uncollected | Status: Uncollected |
+| Status: *Shipped* | Status: **Collected** |
 | ![Spider-Man #13 Sub-City, Part 1 Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_13.webp) | ![Spider-Man #14 Sub-City, Part 2 Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_14.webp) |
 |   |   |
 | Spider-Man #15 : "The Mutant Factor!" | Spider-Man #16 : "Sabotage, Part 1" |
@@ -61,7 +61,7 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | ![Spider-Man #23 Confrontation Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_23.webp) | ![Spider-Man #24 Double Infinity Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_24.webp) |
 |   |   |
 | Spider-Man #25 : "Why Me?" | Spider-Man #26 : "With Great Responsibility--!" |
-| Status: Uncollected | Status: Uncollected |
+| Status: Uncollected | Status: **Collected** |
 | ![Spider-Man #25 Why Me? Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_25.webp) | ![Spider-Man #26 With Great Responsibility--! Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_26.webp) |
 |   |   |
 | Spider-Man #27 : "There's Something | Spider-Man #28 : "Something |
@@ -70,11 +70,11 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | ![Spider-Man #27 There's Something about a Gun Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_27.webp) | ![Spider-Man #28 Something about a Gun,Part 2 Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_28.webp) |
 |   |   |
 | Spider-Man #29 : "Hope and Other Liars" | Spider-Man #30 : "Brainstorm!" |
-| Status: Uncollected | Status: Uncollected |
+| Status: **Collected** | Status: **Collected** |
 | ![Spider-Man #29 Hope and Other Liars Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_29.webp) | ![Spider-Man #30 Brainstorm! Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_30.webp) |
 |   |   |
 | Spider-Man #31 : "Trust" | Spider-Man #32 : "Vengeance, Part One" |
-| Status: Uncollected | Status: Uncollected |
+| Status: **Collected** | Status: Uncollected |
 | ![Spider-Man #31 Trust Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_31.webp) | ![Spider-Man #32 Vengeance, Part One Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_32.webp) |
 |   |   |
 | Spider-Man #33 : "Vengeance, Part Two" | Spider-Man #34 : "Vengeance Is Mine" |
