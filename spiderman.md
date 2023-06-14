@@ -5,7 +5,7 @@ permalink: /spiderman/
 # Spider-Man Vol. 1 Collection
 Hidden page to track the comics I've collected from the 1990s comic series Spider-Man Vol. 1
 
-|  |  |
+|<img width=100/>  | <img width=100/> |
 |---|---|
 | Spider-Man #-1 : "Proto-Goblin" | Spider-Man #1/2 : "Glory Days" | 
 | Status: Shipped | Status: Shipped | 
@@ -204,6 +204,7 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | ![Spider-Man #95 Free Fall Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_95.webp) | ![Spider-Man #96 The Gathering of Five Part 3 of 5: Web of Despair Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_96.webp) |
 |   |   |
 | Spider-Man #97 : "The Final Chapter Part 2 of 4: Let the Heavens Tremble at the Power of the Goblin" | Spider-Man #97 : "The Final Chapter Part 4 of 4: The Final Chapter" |
+|   |   |
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #97 The Final Chapter Part 2 of 4: Let the Heavens Tremble at the Power of the Goblin Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_97.webp) | ![Spider-Man #98 The Final Chapter Part 4 of 4: The Final Chapter Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_98.webp) |
 |   |   |
