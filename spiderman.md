@@ -5,7 +5,7 @@ permalink: /spiderman/
 # Spider-Man Vol. 1 Collection
 Hidden page to track the comics I've collected from the 1990s comic series Spider-Man Vol. 1
 
-| <img width=200/> | <img width=200/> |
+| | |
 |---|---|
 | Spider-Man #-1 : "Proto-Goblin" | Spider-Man #1/2 : "Glory Days" | 
 | Status: Shipped | Status: Shipped | 
@@ -43,7 +43,8 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #15 The Mutant Factor! Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_15.webp) | ![Spider-Man #16 Sabotage, Part 1 Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_16.webp) |
 |   |   |
-| Spider-Man #17 : "No One Gets Outta Here Alive!" | Spider-Man #18 : "Revenge of the Sinister Six, Part 1" |
+| Spider-Man #17 : "No One Gets Outta | Spider-Man #18 : "Revenge of the Sinister |
+| Here Alive!" | Six, Part 1" |
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #17 No One Gets Outta Here Alive! Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_17.webp) | ![Spider-Man #18 Revenge of the Sinister Six, Part 1 Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_18.webp) |
 |   |   |
@@ -63,7 +64,8 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #25 Why Me? Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_25.webp) | ![Spider-Man #26 With Great Responsibility--! Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_26.webp) |
 |   |   |
-| Spider-Man #27 : "There's Something about a Gun" | Spider-Man #28 : "Something about a Gun,Part 2" |
+| Spider-Man #27 : "There's Something | Spider-Man #28 : "Something |
+| about a Gun" | about a Gun,Part 2" |
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #27 There's Something about a Gun Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_27.webp) | ![Spider-Man #28 Something about a Gun,Part 2 Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_28.webp) |
 |   |   |
@@ -87,7 +89,8 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #37 The Light Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_37.webp) | ![Spider-Man #38 Light the Night! Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_38.webp) |
 |   |   |
-| Spider-Man #39 : "Light the Night! Part Two" | Spider-Man #40 : "Light the Night! Part Three" |
+| Spider-Man #39 : "Light the Night! | Spider-Man #40 : "Light the Night! |
+| Part Two" | Part Three" |
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #39 Light the Night! Part Two Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_39.webp) | ![Spider-Man #40 Light the Night! Part Three Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_40.webp) |
 |   |   |
@@ -111,7 +114,8 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #49 Cold Hearts Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_49.webp) | ![Spider-Man #50 Son of the Hunter Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_50.webp) |
 |   |   |
-| Spider-Man #51 : "Power and Responsibility - Part Three: A Hea" | Spider-Man #52 : "Deadline" |
+| Spider-Man #51 : "Power and Responsibility | Spider-Man #52 : "Deadline" |
+| - Part Three: A Hea" |  |
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #51 Power and Responsibility - Part Three: A Hea Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_51.webp) | ![Spider-Man #52 Deadline Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_52.webp) |
 |   |   |
@@ -119,11 +123,12 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #53 Gathering Storms Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_53.webp) | ![Spider-Man #54 Snared Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_54.webp) |
 |   |   |
-| Spider-Man #55 : "End Hunt" | Spider-Man #56 : "Truths &amp; Deceptions" |
+| Spider-Man #55 : "End Hunt" | Spider-Man #56 : "Truths & Deceptions" |
 | Status: Uncollected | Status: Uncollected |
-| ![Spider-Man #55 End Hunt Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_55.webp) | ![Spider-Man #56 Truths &amp; Deceptions Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_56.webp) |
+| ![Spider-Man #55 End Hunt Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_55.webp) | ![Spider-Man #56 Truths & Deceptions Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_56.webp) |
 |   |   |
-| Spider-Man #57 : "Aftershocks, Part One" | Spider-Man #58 : "Spider, Spider, Who's Got the Spider?" |
+| Spider-Man #57 : "Aftershocks, Part One" | Spider-Man #58 : "Spider, Spider, |
+|  | Who's Got the Spider?" | 
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #57 Aftershocks, Part One Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_57.webp) | ![Spider-Man #58 Spider, Spider, Who's Got the Spider? Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_58.webp) |
 |   |   |
@@ -147,7 +152,8 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #67 Who Am I? Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_67.webp) | ![Spider-Man #68 Into The Depths Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_68.webp) |
 |   |   |
-| Spider-Man #69 : "It Begins With a Bang Not a Whimper!" | Spider-Man #70 : "Above it All" |
+| Spider-Man #69 : "It Begins With a | Spider-Man #70 : "Above it All" |
+| Bang Not a Whimper!" |  |
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #69 It Begins With a Bang Not a Whimper! Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_69.webp) | ![Spider-Man #70 Above it All Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_70.webp) |
 |   |   |
@@ -171,7 +177,8 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #79 After the Fall Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_79.webp) | ![Spider-Man #80 Blood Simple Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_80.webp) |
 |   |   |
-| Spider-Man #81 : "Shadow of the Cat" | Spider-Man #82 : "You've Got to Have Friends (of Humanity?)"</" |
+| Spider-Man #81 : "Shadow of the Cat" | Spider-Man #82 : "You've Got |
+|  | to Have Friends (of Humanity?)" |
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #81 Shadow of the Cat Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_81.webp) | ![Spider-Man #82 You've Got to Have Friends (of Humanity?)"</ Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_82.webp) |
 |   |   |
@@ -187,7 +194,8 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #87 Enemies ... A Love Story? Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_87.webp) | ![Spider-Man #88 Who Did Joey Z? Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_88.webp) |
 |   |   |
-| Spider-Man #89 : "Spider, Spider" | Spider-Man #90 : "It Started on Yancy Street ... Again!" |
+| Spider-Man #89 : "Spider, Spider" | Spider-Man #90 : "It Started on |
+|  | Yancy Street ... Again!" |
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #89 Spider, Spider Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_89.webp) | ![Spider-Man #90 It Started on Yancy Street ... Again! Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_90.webp) |
 |   |   |
@@ -199,11 +207,14 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #93 Reborn Again Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_93.webp) | ![Spider-Man #94 Who Was Joey Z? Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_94.webp) |
 |   |   |
-| Spider-Man #95 : "Free Fall" | Spider-Man #96 : "The Gathering of Five Part 3 of 5: Web of Despair" |
+| Spider-Man #95 : "Free Fall" | Spider-Man #96 : "The Gathering of Five |
+|  | Part 3 of 5: Web of Despair" |
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #95 Free Fall Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_95.webp) | ![Spider-Man #96 The Gathering of Five Part 3 of 5: Web of Despair Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_96.webp) |
 |   |   |
-| Spider-Man #97 : "The Final Chapter Part 2 of 4: Let the Heavens Tremble at the Power of the Goblin" | Spider-Man #97 : "The Final Chapter Part 4 of 4: The Final Chapter" |
+| Spider-Man #97 : "The Final Chapter | Spider-Man #97 : "The Final Chapter |
+| Part 2 of 4: Let the Heavens Tremble | Part 4 of 4: The Final Chapter" |
+| at the Power of the Goblin"  |  |
 |   |   |
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #97 The Final Chapter Part 2 of 4: Let the Heavens Tremble at the Power of the Goblin Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_97.webp) | ![Spider-Man #98 The Final Chapter Part 4 of 4: The Final Chapter Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_98.webp) |
