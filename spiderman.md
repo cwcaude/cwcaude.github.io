@@ -215,7 +215,6 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | Spider-Man #97 : "The Final Chapter | Spider-Man #97 : "The Final Chapter |
 | Part 2 of 4: Let the Heavens Tremble | Part 4 of 4: The Final Chapter" |
 | at the Power of the Goblin"  |  |
-|   |   |
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #97 The Final Chapter Part 2 of 4: Let the Heavens Tremble at the Power of the Goblin Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_97.webp) | ![Spider-Man #98 The Final Chapter Part 4 of 4: The Final Chapter Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_98.webp) |
 |   |   |
