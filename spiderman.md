@@ -6,30 +6,30 @@ permalink: /spiderman/
 Hidden page to track the comics I've collected from the 1990s comic series Spider-Man Vol. 1
 
 |  |  |
-|-------|--------|
+|---|---|
 | Spider-Man #-1 : "Proto-Goblin" | Spider-Man #1/2 : "Glory Days" | 
 | Status: Shipped | Status: Shipped | 
 | ![Spider-Man #-1 : "Proto-Goblin" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_-1.webp) | ![Spider-Man #1/2 : "Glory Days" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_half.webp) |
 |   |   |
-| Spider-Man #1 : "Torment: Part 1" | Spider-Man #2 : "Torment: Part 2" |
+| Spider-Man #1 : "Torment, Part 1" | Spider-Man #2 : "Torment, Part 2" |
 | Status: Collected | Status: Collected |
-| ![Spider-Man #1 : "Torment: Part 1" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_1.webp) | ![Spider-Man #2 : "Torment: Part 2" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_2.webp) |
+| ![Spider-Man #1 : "Torment, Part 1" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_1.webp) | ![Spider-Man #2 : "Torment, Part 2" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_2.webp) |
 |   |   |
-| Spider-Man #3 : "Torment: Part 3" | Spider-Man #4 : "Torment: Part 4" |
+| Spider-Man #3 : "Torment, Part 3" | Spider-Man #4 : "Torment, Part 4" |
 | Status: Collected | Status: Collected | 
-| ![Spider-Man #3 : "Torment: Part 3" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_3.webp) | ![Spider-Man #4 : "Torment: Part 4" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_4.webp) | 
+| ![Spider-Man #3 : "Torment, Part 3" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_3.webp) | ![Spider-Man #4 : "Torment, Part 4" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_4.webp) | 
 |   |   |
-| Spider-Man #5 : "Torment: Part 5" | Spider-Man #6 : "Masques: Part 1" |
+| Spider-Man #5 : "Torment, Part 5" | Spider-Man #6 : "Masques, Part 1" |
 | Status: Collected | Status: Uncollected | 
-| ![Spider-Man #5 : "Torment: Part 5" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_5.webp) | ![Spider-Man #6 : "Masques: Part 1 Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_6.webp) | 
+| ![Spider-Man #5 : "Torment, Part 5" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_5.webp) | ![Spider-Man #6 : "Masques, Part 1 Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_6.webp) | 
 |   |   |
-| Spider-Man #7 : "Masques: Part 2" | Spider-Man #8 : "Perceptions: Part 1" |
+| Spider-Man #7 : "Masques, Part 2" | Spider-Man #8 : "Perceptions, Part 1" |
 | Status: Uncollected | Status: Uncollected | 
-| ![Spider-Man #7 : "Masques: Part 2" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_7.webp) | ![Spider-Man #8 : "Perceptions: Part 1" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_8.webp) | 
+| ![Spider-Man #7 : "Masques, Part 2" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_7.webp) | ![Spider-Man #8 : "Perceptions, Part 1" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_8.webp) | 
 |   |   |
-| Spider-Man #9 : "Perceptions: Part 2" | Spider-Man #10 : "Perceptions: Part 3" |
+| Spider-Man #9 : "Perceptions, Part 2" | Spider-Man #10 : "Perceptions, Part 3" |
 | Status: Uncollected | Status: Uncollected | 
-| ![Spider-Man #9 : "Perceptions: Part 2" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_9.webp) | ![Spider-Man #10 : "Perceptions: Part 3" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_10.webp) | 
+| ![Spider-Man #9 : "Perceptions, Part 2" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_9.webp) | ![Spider-Man #10 : "Perceptions, Part 3" Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_10.webp) | 
 |   |   |
 | Spider-Man #11 : "Perceptions, Part 4" | Spider-Man #12 : "Perceptions, Part 5" |
 | Status: Uncollected | Status: Uncollected |
@@ -63,9 +63,9 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #25 Why Me? Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_25.webp) | ![Spider-Man #26 With Great Responsibility--! Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_26.webp) |
 |   |   |
-| Spider-Man #27 : "There's Something about a Gun" | Spider-Man #28 : "Something about a Gun--Part 2" |
+| Spider-Man #27 : "There's Something about a Gun" | Spider-Man #28 : "Something about a Gun,Part 2" |
 | Status: Uncollected | Status: Uncollected |
-| ![Spider-Man #27 There's Something about a Gun Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_27.webp) | ![Spider-Man #28 Something about a Gun--Part 2 Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_28.webp) |
+| ![Spider-Man #27 There's Something about a Gun Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_27.webp) | ![Spider-Man #28 Something about a Gun,Part 2 Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_28.webp) |
 |   |   |
 | Spider-Man #29 : "Hope and Other Liars" | Spider-Man #30 : "Brainstorm!" |
 | Status: Uncollected | Status: Uncollected |
@@ -199,7 +199,11 @@ Hidden page to track the comics I've collected from the 1990s comic series Spide
 | Status: Uncollected | Status: Uncollected |
 | ![Spider-Man #93 Reborn Again Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_93.webp) | ![Spider-Man #94 Who Was Joey Z? Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_94.webp) |
 |   |   |
-| Spider-Man #95 : "Free Fall" | Spider-Man #96 : "The Gathering of Five part 3 of 5: Web of De" |
+| Spider-Man #95 : "Free Fall" | Spider-Man #96 : "The Gathering of Five Part 3 of 5: Web of Despair" |
 | Status: Uncollected | Status: Uncollected |
-| ![Spider-Man #95 Free Fall Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_95.webp) | ![Spider-Man #96 The Gathering of Five part 3 of 5: Web of De Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_96.webp) |
+| ![Spider-Man #95 Free Fall Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_95.webp) | ![Spider-Man #96 The Gathering of Five Part 3 of 5: Web of Despair Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_96.webp) |
+|   |   |
+| Spider-Man #97 : "The Final Chapter Part 2 of 4: Let the Heavens Tremble at the Power of the Goblin" | Spider-Man #97 : "The Final Chapter Part 4 of 4: The Final Chapter" |
+| Status: Uncollected | Status: Uncollected |
+| ![Spider-Man #97 The Final Chapter Part 2 of 4: Let the Heavens Tremble at the Power of the Goblin Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_97.webp) | ![Spider-Man #98 The Final Chapter Part 4 of 4: The Final Chapter Cover Art](/assets/img/spiderman/Spider-Man_Vol_1_98.webp) |
 |   |   |
