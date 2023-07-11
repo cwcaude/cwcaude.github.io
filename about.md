@@ -32,6 +32,7 @@ Skills:
 - C++
 - Python
 - Embedded Reverse Engineering
+- Malware Analysis
 - IDA Pro
 - Binary Ninja
 
