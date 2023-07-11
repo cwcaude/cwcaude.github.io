@@ -11,7 +11,7 @@ permalink: /about/
 
 ## Prior Work Experience
 
-#### Sustaining Engineer at Cobb Tuning (2021-Present)
+#### Reverse Engineer at Cobb Tuning (2021-Present)
 
 Responsibilities:
 
