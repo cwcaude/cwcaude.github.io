@@ -12,33 +12,40 @@ order: 4
 
 ## Prior Work Experience
 
-#### Sustaining Engineer at Cobb Tuning (2021-Present)
+#### Reverse Engineer at Systems & Technology Research (2024-Present)
 
 Responsibilities:
 
-1. Reverse Engineer and add tuning support for new Vehicles
+1. Reverse Engineering and Software Development
 
+#### Reverse Engineer at Cobb Tuning (2021-2024)
+
+Responsibilities:
+
+1. Reverse engineer and add tuning support for new vehicles
 - Read/Write assembly code
-- Understand and utilize 3rd party documentation
+- Understand and utilize Third party documentation
 - Develop Scripts and IDA plugins to assist/improve workflow
+2. Software Development in C++, C, and Python
+- Implement/Extend functionality of software to meet the needs of the product
+3. Conduct and lead reverse engineering training course
+- Develop curriculum to introduce course participants to reverse engineering topics
+- Introduce RE tools / technologies
+- Develop CTF style challenges to explore RE concepts
 
-2. Maintain scripts/tools used during development
-3. Troubleshoot and fix software bugs reported to the team
-
-- Software platforms include: custom features added to vehicles, handheld device, and desktop software
 
 Skills:
 
-- Bash
-- C++
-- Python (Programming Language)
-- Embedded Reverse Engineering
-- IDA Pro
-- Binary Ninja
+- C (Programming Language) 						
+- C++ (Programming Language) 						
+- Binary Reverse Engineering/Analysis    					
+- IDA Pro, Binary Ninja, Ghidra						
+- x86/64, TriCore Assembly							                                                        
+- Python & Bash Scripting	
 
 ## Professional Interests
 
-Reverse Engineering, Malware Analysis, Software Vulnerability Research, Embedded Systems, Operating Systems,
+Reverse Engineering, Malware Analysis, Software Vulnerability Research, Embedded Systems, Operating Systems
 
 ## Personal Hobbies
 
